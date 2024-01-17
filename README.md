@@ -1,7 +1,7 @@
 
 <h1 align="left">Matheus Sartori</h1>
 
-Passionate about exploring and mastering the latest web and mobile development technologies, I thrive on crafting robust and scalable solutions. With a track record of successfully creating end-to-end applications for major enterprises, I've navigated challenges in environments with over 100,000 simultaneous accesses.
+Passionate about exploring and mastering the latest web and mobile development technologies, I thrive on crafting robust and scalable solutions. With a track record of successfully creating end-to-end applications for big companies, I've navigated challenges in environments with over 100,000 simultaneous accesses.
 
 Driven by a love for continuous learning, I am dedicated to staying at the forefront of the ever-evolving tech landscape. My commitment to excellence is reflected in my work, and I find immense satisfaction in bringing innovative ideas to life through programming.
 
