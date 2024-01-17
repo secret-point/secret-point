@@ -49,3 +49,5 @@ Driven by a love for continuous learning, I am dedicated to staying at the foref
     </td>
   </tr>
 </table>
+
+<img src="https://www.codewars.com/users/matheussartori/badges/micro" alt="Codewards Badge" />
