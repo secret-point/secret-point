@@ -1,5 +1,5 @@
 
-<h1 align="left">Matheus Sartori</h1>
+<h1 align="left">Robert Rucinski</h1>
 
 Passionate about exploring and mastering the latest web and mobile development technologies, I thrive on crafting robust and scalable solutions. With a track record of successfully creating end-to-end applications for big companies, I've navigated challenges in environments with over 100,000 simultaneous accesses.
 
