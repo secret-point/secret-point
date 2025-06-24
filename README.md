@@ -31,6 +31,10 @@ Driven by a love for continuous learning, I am dedicated to staying at the foref
       <img src="./.github/images/react.png" width="48" height="48" alt="React" />
       <br>React
     </td>
+     <td align="center" width="96">
+      <img src="./.github/images/php.png" width="48" height="48" alt="JavaScript" />
+      <br>PHP
+    </td>
     <td align="center" width="96">
       <img src="./.github/images/nestjs.svg" width="48" height="48" alt="NestJS" />
       <br>NestJS
